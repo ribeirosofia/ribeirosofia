@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ribeirosofia
 - 👀 I’m interested in Frontend and Backend Software Engineering 
-- 🌱 I’m currently learning Javascript, JSON React.js, Typescript.js and I'm interested in learning Java.
+- 🌱 I’m currently learning Javascript, JSON React.js, Typescript.js, Java and Python.
 - 💞️ I’m looking foward to collaborate on new projects in my company
 - 📫 How to reach me linkedin.com/in/sofia-ribeiro-deva/
 
