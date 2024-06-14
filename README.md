@@ -22,7 +22,7 @@
 <ul>
   <li>Pronouns: she/her </li>
   <li>Brazilian, from São Paulo state.</li>
-  <li>I'm good at renderind landing pages in React.js and Typescript</li>
+  <li>I'm good at rendering landing pages in React.js and Typescript</li>
   <li>I'm currently learning backend technologies, such as node.js and Java, to become Fullstack Developer</li>
   <li>I love to talk about pop music, hyper pop, drama series and cats</li>
   <li> Don't mind the unfinished projects.</li>
