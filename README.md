@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello, world! Welcome to my github profile</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=5527F7&random=false&width=435&lines=Full+Stack+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=5527F7&random=false&width=435&lines=Software+Engineer)](https://git.io/typing-svg)
 
 <div id="badges">
 <p><strong>Contact me at:</strong></p>
