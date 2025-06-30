@@ -4,7 +4,7 @@
 
 <div id="badges">
 <p><strong>Contact me at:</strong></p>
-<a href="https://www.linkedin.com/in/sofia-ribeiro-deva/" target="_blank">
+<a href="https://www.linkedin.com/in/sofia-ribeiro-tech/" target="_blank">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0e76a8&color=black">
 </a>
 </div>
