@@ -23,9 +23,9 @@
   <li>Pronouns: she/her </li>
   <li>Brazilian, from São Paulo state.</li>
   <li>I'm good at rendering landing pages in React.js and Typescript</li>
-  <li>I'm currently learning backend technologies, such as Node and Java, to become Fullstack Developer</li>
+  <li>I'm currently learning backend technologies, such as Node and Java.</li>
   <li>I love to talk about pop music, hyper pop, drama series and cats</li>
-  <li>My hobbies are listening to new songs, play donkey kong country 2 and inventing new food recipes</li>
+  <li>My hobbies are listening to new songs, crochet, play donkey kong country 2 and inventing new food recipes</li>
   <li> Don't mind the unfinished projects.</li>
   <li>📫 How to reach me: ribeiro.sofia.sr@gmail.com</li>
 </ul>
