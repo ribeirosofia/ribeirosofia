@@ -28,22 +28,27 @@ Enjoy exploring my portfolio and feel free to connect and chat 😊
 
 ## 🏆 My GitHub Trophies
 
-<div align="center">
-  <!-- Container principal -->
-  <div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%; max-width: 850px; margin: 0 auto;">
-      <!-- GitHub Stats -->
-    <div style="width: 55%;">
-      <img src="https://github-readme-stats.vercel.app/api?username=ribeirosofia&show_icons=true&theme=dracula&hide_border=true&count_private=true&line_height=27&card_width=100%" 
-           style="width: 100%; max-width: 450px;" />
-    </div>
-  <!-- Top Languages -->
-    <div style="width: 45%;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeirosofia&layout=compact&theme=dracula&hide_border=true&langs_count=8&size_weight=0.5&card_width=100%" 
-           style="width: 100%; max-width: 400px;" />
-    </div>
-    
-  </div>
-</div>
+<p align="center">
+  <table align="center" style="border: none; border-collapse: collapse; border-spacing: 0; width: 100%; max-width: 800px; margin: 0 auto;">
+    <tr style="border: none;">
+      
+<!-- GitHub Stats -->
+   <td width="55%" align="center" style="border: none; padding-right: 20px; vertical-align: top;">
+        <img src="https://github-readme-stats.vercel.app/api?username=ribeirosofia&show_icons=true&theme=dracula&hide_border=true&count_private=true&line_height=27&card_width=400" 
+             alt="GitHub Stats" 
+             style="width: 100%; max-width: 420px;" />
+      </td>
+      
+<!-- Top Languages -->
+  <td width="45%" align="center" style="border: none; padding-left: 20px; vertical-align: top;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeirosofia&layout=compact&theme=dracula&hide_border=true&langs_count=8&size_weight=0.5&card_width=350" 
+             alt="Top Languages" 
+             style="width: 100%; max-width: 380px;" />
+      </td>
+      
+   </tr>
+  </table>
+</p>
 <!---
 ribeirosofia/ribeirosofia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
