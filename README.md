@@ -49,6 +49,10 @@ Enjoy exploring my portfolio and feel free to connect and chat 😊
    </tr>
   </table>
 </p>
+
+## MY PERSONAL PROJECTS
+[![Java](src/languages/Java.png)](https://github.com/ribeirosofia/conta_service)
+
 <!---
 ribeirosofia/ribeirosofia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
