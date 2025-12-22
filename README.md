@@ -50,6 +50,12 @@ Enjoy exploring my portfolio and feel free to connect and chat 😊
   </table>
 </p>
 
+
+## MY COURSES
+![PMF](src/courses/java_course.png)
+![SB2025](src/courses/data_course.png)
+![SB2025](src/courses/SRE_course.png)
+
 ## MY PERSONAL PROJECTS
 [![Java](src/languages/Java.png)](https://github.com/ribeirosofia/conta_service)
 
